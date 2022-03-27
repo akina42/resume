@@ -83,7 +83,8 @@ Conclusion in 2019
 
 - EF SET English Certificate 79/100 - C2 Proficient (EF Standard English Test)
 
-## LANGUAGES
-- English: C1 (Advanced)- reading, writing, listening, speaking.
+## Languages
+
+- English: C1 (Advanced) - reading, writing, listening, speaking.
 
 - Portuguese: Native
