@@ -32,7 +32,7 @@ AUGUST 2011 - OCTOBER 2016
 
 Main activities: user technical support, administration routines, customer service.
 
-## OTHER EXPERIENCES AND PROJECTS
+## Other experiences and projects
 
 ### Software Development Mentorship — Volunteer mentor
 JUNE 2020 - OCTOBER 2020
@@ -54,7 +54,7 @@ FEBRUARY 2017 - MAY 2018
 
 The project Conectadas from Universidade Estadual de Maringá has the goal of promoting discussions and actions to promote female participation in the computer science  field.
 
-## EDUCATION
+## Education
 
 Bachelor of Information Technology
 
@@ -62,7 +62,7 @@ Universidade Estadual de Maringá - UEM
 
 Conclusion in 2019
 
-## COURSES
+## Courses
 
 - English Course - Advanced (KNN Idiomas)
 
@@ -70,7 +70,7 @@ Conclusion in 2019
 
 - Business Management (68 hours) - UEM
 
-## CERTIFICATIONS
+## Certifications
 
 - Kanban Foundation - KIKF (Certiprof)
 
