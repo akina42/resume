@@ -1,6 +1,3 @@
-# Akina Kurita
-Software Developer
-
 ## Experience
 
 ### Elotech, Maringá-BR — Software Developer - Senior II
